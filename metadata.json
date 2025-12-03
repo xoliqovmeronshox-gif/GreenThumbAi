@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GreenThumb AI",
+  "description": "Your intelligent gardening assistant. Identify plants from photos and get expert care advice using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
